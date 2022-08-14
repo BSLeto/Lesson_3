@@ -1,0 +1,15 @@
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\bin\Debug\net6.0\Example0012_Methods.exe
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\bin\Debug\net6.0\Example0012_Methods.deps.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\bin\Debug\net6.0\Example0012_Methods.runtimeconfig.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\bin\Debug\net6.0\Example0012_Methods.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\bin\Debug\net6.0\Example0012_Methods.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.csproj.AssemblyReference.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.AssemblyInfoInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.AssemblyInfo.cs
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\refint\Example0012_Methods.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\Example0012_Methods.genruntimeconfig.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Lesson_3\Example0012_Methods\obj\Debug\net6.0\ref\Example0012_Methods.dll
